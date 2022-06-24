@@ -13,3 +13,6 @@ Update you local environment setup editing the `.env` file, inspired from `.env.
 ```bash
 cp project1/.env.sample project1/.env
 ```
+ 
+
+ 
